@@ -2,7 +2,6 @@
 // 			next and previous nodes
 //
 // 	Author:		Kyle Hovey
-//	A Number: 	A02188949
 
 #ifndef DOUBLYLINKEDLIST_H
 #define DOUBLYLINKEDLIST_H

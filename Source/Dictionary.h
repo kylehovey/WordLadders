@@ -1,7 +1,6 @@
 // Dictionary class: Acts as an English word lookup
 //
 //	Author:		Kyle Hovey
-//	A Number:	A02188949
 
 #ifndef DICTIONARY_H
 #define DICTIONARY_H

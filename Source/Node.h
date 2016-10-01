@@ -1,7 +1,6 @@
 // Node:	One link in a doubly-linked list
 //
 // 	Author:		Kyle Hovey
-//	A Number: 	A02188949
 
 #ifndef NODE_H
 #define NODE_H

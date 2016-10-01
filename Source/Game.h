@@ -1,7 +1,6 @@
 // Game:	Allows you to play WordLadder games
 //
 // 	Author:		Kyle Hovey
-//	A Number: 	A02188949
 
 #ifndef GAME_H
 #define GAME_H

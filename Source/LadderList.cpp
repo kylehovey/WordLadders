@@ -2,7 +2,6 @@
 //
 //
 // 	Author:		Kyle Hovey
-//	A Number: 	A02188949
 
 #include "LadderList.h"
 

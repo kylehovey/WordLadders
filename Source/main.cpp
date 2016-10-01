@@ -8,7 +8,6 @@
 //		A ═] B : A composes B
 //
 // 	Author:		Kyle Hovey
-//	A Number: 	A02188949
 
 #include "Game.h"
 

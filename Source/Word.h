@@ -2,7 +2,6 @@
 // 		it can be marked in a dictionary instead of deleting it
 //
 // 	Author:		Kyle Hovey
-//	A Number: 	A02188949
 
 #ifndef WORD_H
 #define WORD_H
