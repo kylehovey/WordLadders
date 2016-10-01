@@ -1,0 +1,109 @@
+Attempting to find ladder from towel to tower
+
+Partial solutions:
+[towel]
+
+Words one away from towel:
+bowel dowel rowel vowel towed tower 
+
+Partial solutions:
+[towel, bowel]
+[towel, dowel]
+[towel, rowel]
+[towel, vowel]
+[towel, towed]
+[towel, tower]
+
+Words one away from bowel:
+botel bowed bower 
+
+Partial solutions:
+[towel, dowel]
+[towel, rowel]
+[towel, vowel]
+[towel, towed]
+[towel, tower]
+[towel, bowel, botel]
+[towel, bowel, bowed]
+[towel, bowel, bower]
+
+Words one away from dowel:
+dowed dower 
+
+Partial solutions:
+[towel, rowel]
+[towel, vowel]
+[towel, towed]
+[towel, tower]
+[towel, bowel, botel]
+[towel, bowel, bowed]
+[towel, bowel, bower]
+[towel, dowel, dowed]
+[towel, dowel, dower]
+
+Words one away from rowel:
+rowed rowen rower 
+
+Partial solutions:
+[towel, vowel]
+[towel, towed]
+[towel, tower]
+[towel, bowel, botel]
+[towel, bowel, bowed]
+[towel, bowel, bower]
+[towel, dowel, dowed]
+[towel, dowel, dower]
+[towel, rowel, rowed]
+[towel, rowel, rowen]
+[towel, rowel, rower]
+
+Words one away from vowel:
+vowed vower 
+
+Partial solutions:
+[towel, towed]
+[towel, tower]
+[towel, bowel, botel]
+[towel, bowel, bowed]
+[towel, bowel, bower]
+[towel, dowel, dowed]
+[towel, dowel, dower]
+[towel, rowel, rowed]
+[towel, rowel, rowen]
+[towel, rowel, rower]
+[towel, vowel, vowed]
+[towel, vowel, vower]
+
+Words one away from towed:
+cowed jowed lowed mowed sowed wowed yowed tawed tewed toked toled toned toped toted toyed 
+
+Partial solutions:
+[towel, tower]
+[towel, bowel, botel]
+[towel, bowel, bowed]
+[towel, bowel, bower]
+[towel, dowel, dowed]
+[towel, dowel, dower]
+[towel, rowel, rowed]
+[towel, rowel, rowen]
+[towel, rowel, rower]
+[towel, vowel, vowed]
+[towel, vowel, vower]
+[towel, towed, cowed]
+[towel, towed, jowed]
+[towel, towed, lowed]
+[towel, towed, mowed]
+[towel, towed, sowed]
+[towel, towed, wowed]
+[towel, towed, yowed]
+[towel, towed, tawed]
+[towel, towed, tewed]
+[towel, towed, toked]
+[towel, towed, toled]
+[towel, towed, toned]
+[towel, towed, toped]
+[towel, towed, toted]
+[towel, towed, toyed]
+
+Found ladder!
+towel tower 
